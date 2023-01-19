@@ -19,7 +19,7 @@ This YouTube checker gets all the data views, likes and subscribers on your yout
 
 * How to run the program
 ```
-Pip install pip install google-api-python-client
+pip install google-api-python-client
 Python3 [File Location]
 ```
 
