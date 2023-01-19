@@ -2,11 +2,11 @@ import time
 from googleapiclient.discovery import build
 
 # Build the service object
-youtube = build('youtube', 'v3', developerKey='AIzaSyAjoQ_rNtWaG8ODdOMfI-_a5RtR3ax6sjA')
+youtube = build('youtube', 'v3', developerKey='YOUR API KEY')
 
 # Define the video ID and the channel ID
-video_id = 'iwyYDQoE4kM'
-channel_id = 'UCza8eRg2dSTiIKcnPUhgsgw'
+video_id = 'VIDEO ID'
+channel_id = 'CHANNEL ID'
 
 while True:
     # Make the API request to retrieve the video's statistics
