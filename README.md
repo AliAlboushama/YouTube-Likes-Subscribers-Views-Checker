@@ -2,7 +2,7 @@
 
 ## Description
 
-This YouTube checker gets all the data views, likes and subscribers on your youtube channel using YouTube API key.
+This YouTube checker gets all the data from uour YouTube video. This inclued: Views, Subscribers & Likes
 
 ## Getting Started
 
