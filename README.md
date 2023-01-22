@@ -2,7 +2,7 @@
 
 ## Description
 
-This YouTube checker gets all the data from uour YouTube video. This includes: Views, Subscribers and Likes
+This YouTube checker gets all the data from your YouTube video. This includes: Views, Subscribers and Likes
 
 ## Getting Started
 
