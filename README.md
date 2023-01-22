@@ -8,7 +8,7 @@ This YouTube checker gets all the data views, likes and subscribers on your yout
 
 ### Dependencies
 
-* YouTube API Key
+* YouTube API V3 Key
 
 ### Installing
 
